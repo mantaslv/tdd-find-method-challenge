@@ -1,11 +1,4 @@
-# Database Project Starter
-
-This is a starter project for you to use to start your Python database projects.
-
-There are two videos to support:
-
-* [A demonstration of setting up the project](https://www.youtube.com/watch?v=KMEt4GgWJXc)
-* [A walkthrough of the project codebase](https://youtu.be/KMEt4GgWJXc?t=460)
+# Food Lover Recipe Project 
 
 ## Setup
 
@@ -41,10 +34,3 @@ There are two videos to support:
 # Run the app
 (databases-starter-venv); python app.py
 ```
-
-<br>
-<details>
-  <summary>I get a <code>ModuleNotFoundError: No module named 'psycopg'</code></summary>
-  <br>
-If, after activating your <code>venv</code> and installing dependencies, you see this error when running <code>pytest</code>, please deactivate and reactivate your <code>venv</code>. This should solve the problem - if not, contact your coach.
-</details>
